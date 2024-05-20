@@ -1,0 +1,1 @@
+A quick AutoHotKey script for inputting special characters. Currently maps a few keyboard strokes to unicode characters, typically mapping Alt + Letter or Alt + Shift + Letter to a comparable Greek letter.
