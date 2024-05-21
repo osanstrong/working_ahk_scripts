@@ -28,3 +28,6 @@ return
 !+s::
 Send Σ
 return
+!c::
+Send χ
+return
